@@ -1,10 +1,10 @@
 # Olá 👋
 
-### **Perfil Acadêmico de Vitor Alexandre** 📚
+### **Perfil de Vitor Alexandre** 📚
 
 * `Aluno de Engenharia de Computação - USP São Carlos`
 
-* `Perfil que visa reunir os projetos realizados durante a minha graduação. Espero que gostem!`
+* `Perfil que visa reunir os projetos realizados `
 <br>
 
 ---
