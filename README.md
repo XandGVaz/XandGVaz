@@ -4,7 +4,7 @@
 
 * `Aluno de Engenharia de Computação - USP São Carlos`
 
-* `Perfil que visa reunir os projetos realizados `
+* `Perfil que visa reunir meus projetos computacionais `
 <br>
 
 ---
