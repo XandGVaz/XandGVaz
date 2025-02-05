@@ -1,9 +1,11 @@
 # Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## **Perfil de Vitor Alexandre** 📚
-* `Aluno de Engenharia de Computação - USP São Carlos`
+### **`Perfil de Vitor Alexandre`** 💻
 
-* `Perfil que visa reunir meus projetos computacionais `
+- 🏫 Aluno de Engenharia de Computação - USP São Carlos
+- ✅ Neste perfil busco reunir meus projetos computacionais
+- ⌚️ Atualmente, estou me apronfudando em sisteamas embarcados, IOT e programação web
+
 
 
 ### **Estatísticas** 📈
@@ -11,7 +13,7 @@
     <img 
         align="center"
         style="padding-right: 10px;"
-        width="550px"
+        width="400px"
         alt="Xande Stats"
         title="Xande Stats" 
         src="https://github-readme-stats.vercel.app/api?username=XandGVaz&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
@@ -20,7 +22,7 @@
     <br>
     <img 
         align="center"
-        width="450px"
+        width="400px"
         alt="Xande Lenguages"
         title="Xande Lenguages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&hide_progress=true&theme=radical&locale=pt-br"
@@ -32,62 +34,56 @@
 <div align="left">
     <img
         style="padding-right: 2px;"  
-        height="40"     
-        width="40" 
+        height="30"     
+        width="30" 
         alt="c++"
         title="c++" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
     />
-    &nbsp;&nbsp;
     <img
         style="padding-right: 2px;" 
-        height="40"     
-        width="40" 
+        height="30"     
+        width="30" 
         alt="arduino IDE"
         title="arduino IDE" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"    
     />
-    &nbsp;&nbsp;
     <img 
         style="padding-right: 2px;" 
-        height="40"     
-        width="40" 
+        height="30"     
+        width="30" 
         alt="c"
         title="c" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" 
     />
-    &nbsp;&nbsp;
     <img  
         style="padding-right: 2px;" 
-        height="40"     
-        width="40" 
+        height="30"     
+        width="30" 
         alt="html"
         title="html" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  
     />
-    &nbsp;&nbsp;
     <img 
         style="padding-right: 2px;"  
-        height="40"     
-        width="40" 
+        height="30"     
+        width="30" 
         alt="css"
         title="css" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
-    &nbsp;&nbsp;
     <img  
         style="padding-right: 2px;" 
-        height="40"     
-        width="40" 
+        height="30"     
+        width="30" 
         alt="git"
         title="git" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
-    &nbsp;&nbsp;
     <img 
         style="padding-right: 10px;" 
-        height="40"     
-        width="40" 
+        height="30"     
+        width="30" 
         alt="python"
         title="python" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -118,5 +114,5 @@
 </p>
 
 
-## **Atividade** 🪂
+### **Atividade** 🪂
 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
