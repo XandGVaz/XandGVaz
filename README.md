@@ -3,7 +3,7 @@
 ### **`Perfil de Vitor Alexandre`** 💻
 
 - 🏫 Aluno de Engenharia de Computação - USP São Carlos
-- ✅ Neste perfil busco reunir meus projetos computacionais
+- ✅ Busco reunir neste perfil meus projetos pessoais e profissionais
 - ⌚️ Atualmente, estou me apronfudando em sisteamas embarcados, IOT e programação web
 
 
