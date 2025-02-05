@@ -1,14 +1,13 @@
 # Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ### **Perfil de Vitor Alexandre** 📚
-
 * `Aluno de Engenharia de Computação - USP São Carlos`
 
 * `Perfil que visa reunir meus projetos computacionais `
 
-### **Estatísticas** 📈
 
-<div align="center">
+### **Estatísticas** 📈
+<div align="left">
     <img 
         align="center"
         style="padding-right: 10px;"
@@ -28,8 +27,8 @@
     />
 </div>
 
-### **Tecnologias** 🤖
 
+### **Tecnologias** 🤖
 <div align="left">
     <img
         style="padding-right: 2px;"  
@@ -118,6 +117,6 @@
 </a>
 </p>
 
-### **Atividade** 🪂
 
+### **Atividade** 🪂
 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
