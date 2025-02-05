@@ -7,8 +7,6 @@
 * `Perfil que visa reunir meus projetos computacionais `
 <br>
 
----
-
 ### **Estatísticas** 📈
 
 <div align="center">
@@ -31,8 +29,6 @@
     />
 </div>
 <br>
-
----
 
 ### **Tecnologias** 🤖
 
@@ -102,8 +98,6 @@
 </div>
 <br>
 
----
-
 ### **Contato** 📩
 
 <p align="center">
@@ -127,8 +121,6 @@
 </a>
 </p>
 <br>
-
----
 
 ### **Atividade** 🪂
 
