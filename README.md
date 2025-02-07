@@ -16,7 +16,7 @@
         width="400px"
         alt="Xande Stats"
         title="Xande Stats" 
-        src="https://github-readme-stats.vercel.app/api?username=XandGVaz&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=XandGVaz&show_icons=true&theme=default&include_all_commits=true&locale=pt-br" 
     />
     <br>
     <br>
@@ -25,7 +25,7 @@
         width="400px"
         alt="Xande Lenguages"
         title="Xande Lenguages" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&hide_progress=true&theme=merko&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&hide_progress=true&theme=default&locale=pt-br"
     />
 </div>
 
