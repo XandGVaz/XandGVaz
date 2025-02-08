@@ -25,7 +25,7 @@
         width="400px"
         alt="Xande Lenguages"
         title="Xande Lenguages" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&hide_progress=true&theme=dark&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&layout=compact&theme=dark&locale=pt-br"
     />
 </div>
 
