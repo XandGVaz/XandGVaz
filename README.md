@@ -16,7 +16,7 @@
         width="400px"
         alt="Xande Stats"
         title="Xande Stats" 
-        src="https://github-readme-stats.vercel.app/api?username=XanGVaz&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=XandGVaz&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
     />
     <br>
     <br>
