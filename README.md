@@ -4,7 +4,7 @@
 
 - 🏫 Aluno de Engenharia de Computação - USP São Carlos
 - ✅ Busco reunir neste perfil meus projetos pessoais e profissionais
-- ⌚️ Atualmente, estou me apronfudando em sisteamas embarcados, IOT e programação web
+- ⌚️ Atualmente, estou me aprofundando em sisteamas embarcados, IOT e programação web
 
 
 
