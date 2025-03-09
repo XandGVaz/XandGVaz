@@ -8,7 +8,7 @@
 
 
 
-### **Estatísticas** 📈
+### **`Estatísticas`** 📈
 <div align="left">
     <img 
         align="center"
@@ -30,7 +30,7 @@
 </div>
 
 
-### **Tecnologias** 🤖
+### **`Tecnologias`** 🤖
 <div align="left">
     <img
         style="padding-right: 2px;"  
@@ -90,7 +90,7 @@
     />
 </div>
 
-### **Contato** 📩
+### **`Contato`** 📩
 
 <p align="left">
 <a href = "mailto:vitorgarciavaz@gmail.com" target="_blank">
@@ -110,4 +110,4 @@
 </a>
 </p>
 
-### **Atividade** 🪂 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
+### **`Atividade`** 🪂 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
