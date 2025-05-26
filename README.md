@@ -13,7 +13,7 @@
     <img 
         align="center"
         style="padding-right: 10px;"
-        width="400px"
+        width="450px"
         alt="Xande Stats"
         title="Xande Stats" 
         src="https://github-readme-stats.vercel.app/api?username=XandGVaz&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
@@ -22,7 +22,7 @@
     <br>
     <img 
         align="center"
-        width="400px"
+        width="450px"
         alt="Xande Lenguages"
         title="Xande Lenguages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&layout=compact&theme=dark&locale=pt-br"
