@@ -6,30 +6,6 @@
 - ✅ Busco reunir aqui meus projetos pessoais e profissionais
 - ⌚️ Atualmente, estou me aprofundando em sisteamas embarcados, IOT e programação web
 
-
-
-### **Estatísticas** 📈
-<div align="left">
-    <img 
-        align="center"
-        style="padding-right: 10px;"
-        width="450px"
-        alt="Xande Stats"
-        title="Xande Stats" 
-        src="https://github-readme-stats.vercel.app/api?username=XandGVaz&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-    />
-    <br>
-    <br>
-    <img 
-        align="center"
-        width="450px"
-        alt="Xande Lenguages"
-        title="Xande Lenguages" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&layout=compact&theme=dark&include_all_commits=true&locale=pt-br"
-    />
-</div>
-
-
 ### **Tecnologias** 🤖
 <div align="left">
     <img
@@ -87,6 +63,28 @@
         alt="python"
         title="python" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+</div>
+
+
+### **Estatísticas** 📈
+<div align="left">
+    <img 
+        align="center"
+        style="padding-right: 10px;"
+        width="450px"
+        alt="Xande Stats"
+        title="Xande Stats" 
+        src="https://github-readme-stats.vercel.app/api?username=XandGVaz&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    />
+    <br>
+    <br>
+    <img 
+        align="center"
+        width="450px"
+        alt="Xande Lenguages"
+        title="Xande Lenguages" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&layout=compact&theme=dark&include_all_commits=true&locale=pt-br"
     />
 </div>
 
