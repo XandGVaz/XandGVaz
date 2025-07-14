@@ -48,6 +48,14 @@
         title="css" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
+    <img 
+        style="padding-right: 2px;"  
+        height="30"     
+        width="30" 
+        alt="typescpript"
+        title="typescript" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    />
     <img  
         style="padding-right: 2px;" 
         height="30"     
