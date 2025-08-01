@@ -7,72 +7,18 @@
 - ⌚️ Atualmente, estou me aprofundando em sisteamas embarcados, IOT e programação web
 
 ### **Tecnologias** 🤖
-<div align="left">
-    <img
-        style="padding-right: 2px;"  
-        height="30"     
-        width="30" 
-        alt="c++"
-        title="c++" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-    />
-    <img
-        style="padding-right: 2px;" 
-        height="30"     
-        width="30" 
-        alt="arduino IDE"
-        title="arduino IDE" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"    
-    />
-    <img 
-        style="padding-right: 2px;" 
-        height="30"     
-        width="30" 
-        alt="c"
-        title="c" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" 
-    />
-    <img  
-        style="padding-right: 2px;" 
-        height="30"     
-        width="30" 
-        alt="html"
-        title="html" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  
-    />
-    <img 
-        style="padding-right: 2px;"  
-        height="30"     
-        width="30" 
-        alt="css"
-        title="css" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img 
-        style="padding-right: 2px;"  
-        height="30"     
-        width="30" 
-        alt="typescpript"
-        title="typescript" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    />
-    <img  
-        style="padding-right: 2px;" 
-        height="30"     
-        width="30" 
-        alt="git"
-        title="git" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-    />
-    <img 
-        style="padding-right: 10px;" 
-        height="30"     
-        width="30" 
-        alt="python"
-        title="python" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    />
-</div>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 ### **Estatísticas** 📈
