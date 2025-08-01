@@ -7,7 +7,7 @@
 - ⌚️ Atualmente, estou me aprofundando em sisteamas embarcados, IOT e programação web
 
 ### **Tecnologias** 🤖
-<p align="center">
+<p align="left">
     <img 
         src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" 
     >
@@ -65,7 +65,7 @@
 
 ### **Contato** 📩
 
-<p align="center">
+<p align="left">
 <a href = "mailto:vitorgarciavaz@gmail.com" target="_blank">
     <img 
         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
