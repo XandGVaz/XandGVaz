@@ -7,7 +7,7 @@
 - ⌚️ Atualmente, estou me aprofundando em sisteamas embarcados, IOT e programação web
 
 ### **Tecnologias** 🤖
-<p align="left">
+<p align="center">
     <img 
         src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" 
     >
