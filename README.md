@@ -59,7 +59,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img 
         align="center"
-        width="350px"
+        width="320px"
         alt="Xande Lenguages"
         title="Xande Lenguages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&layout=compact&theme=dark&include_all_commits=true&locale=pt-br"
