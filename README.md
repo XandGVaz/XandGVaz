@@ -1,11 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=02d144"/>
 
-<div align="center">
+<div align="center" >
     
 # Olá!
     
 </div>
 
+<br>
 <!--- ![Typing GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif --->
 
 ### **`Seja bem vindo ao meu perfil, meu nome é Vitor Alexandre`** 
