@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0e65e8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5c5f66"/>
 
 # Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
@@ -90,4 +90,4 @@
 
 ### **Atividade** 🪂 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e65e8&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c5f66&height=100&section=footer"/>
