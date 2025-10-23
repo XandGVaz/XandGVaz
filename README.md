@@ -2,7 +2,7 @@
 
 <div align="center" >
     
-# Olá!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=500&color=02d144&center=true&width=900&lines=Olá+Mundo!+🌎)](https://git.io/typing-svg)
     
 </div>
 
