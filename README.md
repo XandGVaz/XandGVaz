@@ -18,40 +18,40 @@
 ### **Tecnologias** 🤖
 <p align="center">
     <img 
-        src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" 
+        src="https://img.shields.io/badge/c-0f9432.svg?style=for-the-badge&logo=c&logoColor=white" 
     >
      <img 
-         src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
+         src="https://img.shields.io/badge/c++-0f9432.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
      >
     <img 
-         src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" 
+         src="https://img.shields.io/badge/-Arduino-0f9432?style=for-the-badge&logo=Arduino&logoColor=white" 
      >
     <img 
-         src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
+         src="https://img.shields.io/badge/html5-0f9432.svg?style=for-the-badge&logo=html5&logoColor=white" 
      >
     <img 
-         src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
+         src="https://img.shields.io/badge/css3-0f9432.svg?style=for-the-badge&logo=css3&logoColor=white" 
      >
     <img 
-         src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" 
+         src="https://img.shields.io/badge/typescript-0f9432.svg?style=for-the-badge&logo=typescript&logoColor=white" 
      >
     <img 
-         src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" 
+         src="https://img.shields.io/badge/node.js-0f9432?style=for-the-badge&logo=node.js&logoColor=white" 
      >
     <img 
-         src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" 
+         src="https://img.shields.io/badge/postgres-0f9432.svg?style=for-the-badge&logo=postgresql&logoColor=white" 
      >
     <img 
-         src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
+         src="https://img.shields.io/badge/python-0f9432?style=for-the-badge&logo=python&logoColor=white" 
      >
     <img 
-         src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" 
+         src="https://img.shields.io/badge/git-0f9432.svg?style=for-the-badge&logo=git&logoColor=white" 
      >
     <img 
-         src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" 
+         src="https://img.shields.io/badge/Linux-0f9432?style=for-the-badge&logo=linux&logoColor=white" 
      >
     <img 
-         src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" 
+         src="https://img.shields.io/badge/Ubuntu-0f9432?style=for-the-badge&logo=ubuntu&logoColor=white" 
      >
 </p>
 
@@ -79,9 +79,9 @@
 
 <div align="left">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-333030?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vitorgarciavaz@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-333030?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/vitor_gvaz/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-333030?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vitor-alexandre-garcia-vaz-6757962aa/)
+  [![Gmail](https://img.shields.io/badge/Gmail-0f9432?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vitorgarciavaz@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-0f9432?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/vitor_gvaz/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0f9432?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vitor-alexandre-garcia-vaz-6757962aa/)
   
 </div>
 
