@@ -77,23 +77,13 @@
 
 ### **Contato** 📩
 
-<p align="left">
-<a href = "mailto:vitorgarciavaz@gmail.com" target="_blank">
-    <img 
-        src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
-    >
-</a>
-<a href="https://www.linkedin.com/in/vitor-alexandre-garcia-vaz-6757962aa/" target="_blank">
-    <img 
-        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    >
-</a> 
-<a href="https://www.instagram.com/vitor_gvaz/" target="_blank">
-    <img   
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-    >
-</a>
-</p>
+<div align="left">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-333030?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vitorgarciavaz@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-333030?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/vitor_gvaz/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-333030?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vitor-alexandre-garcia-vaz-6757962aa/)
+  
+</div>
 
 ### **Atividade** 🪂 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
 
