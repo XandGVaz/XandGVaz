@@ -85,11 +85,6 @@
   
 </div>
 
-### **Atividade** 🪂
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture> 
-<!-- ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg) -->
+### **Atividade** 🪂 [snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/ocean.gif)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3477eb&height=100&section=footer"/>
