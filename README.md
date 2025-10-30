@@ -85,6 +85,6 @@
   
 </div>
 
-### **Atividade** 🪂 [snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
+### **Atividade** 🪂 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3477eb&height=100&section=footer"/>
