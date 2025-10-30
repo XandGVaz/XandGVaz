@@ -29,11 +29,11 @@ jobs:
         uses: Platane/snk@v3 # <-- complete version to gifs
         with:
           github_user_name: ${{ github.repository_owner }}
-          color1: '#222529'
-          color2: '#3477eb'
-          color3: '#64a1f4'
-          color4: '#4b91f1'
-          color5: '#3c7dd9'
+          # color1: '#222529'
+          # color2: '#3477eb'
+          # color3: '#64a1f4'
+          # color4: '#4b91f1'
+          # color5: '#3c7dd9'
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#222529,#3477eb,#64a1f4,#4b91f1,#3c7dd9
