@@ -27,6 +27,12 @@
          src="https://img.shields.io/badge/-Arduino-3477eb?style=for-the-badge&logo=Arduino&logoColor=white" 
      >
     <img 
+         src="https://img.shields.io/badge/CMake-3477eb?style=for-the-badge&logo=cmake&logoColor=white" 
+    >
+    <img 
+         src="https://img.shields.io/badge/-Raspberry_Pi-3477eb?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" 
+    >
+    <img 
          src="https://img.shields.io/badge/html5-3477eb.svg?style=for-the-badge&logo=html5&logoColor=white" 
      >
     <img 
