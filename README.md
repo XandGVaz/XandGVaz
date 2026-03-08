@@ -55,7 +55,7 @@
      >
 </p>
 
-### **Estatísticas** 📈
+<!-- ### **Estatísticas** 📈
 <div align="left">
     <img 
         align="center"
@@ -73,7 +73,7 @@
         title="Xande Lenguages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&layout=compact&theme=react&include_all_commits=true&count_private=true&locale=pt-br"
     />
-</div>
+</div> -->
 
 ### **Contato** 📩
 
