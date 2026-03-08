@@ -77,7 +77,7 @@
 
 ### **Contato** 📩
 
-<div align="left">
+<div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-3477eb?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vitorgarciavaz@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-3477eb?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/vitor_gvaz/)
