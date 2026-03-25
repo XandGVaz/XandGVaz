@@ -93,11 +93,11 @@
 
 ### **Atividade** 🪂 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">
+<div align="center">
         <img 
             width="700px"
             src="https://github-readme-activity-graph.vercel.app/graph?username=XandGVaz&bg_color=1a1a21&color=3477eb&line=ffffff&point=ffffff&area=true&hide_border=false"
         />
-</p>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3477eb&height=100&section=footer"/>
