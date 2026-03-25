@@ -79,7 +79,14 @@
         title="Xande Lenguages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&layout=compact&theme=react&include_all_commits=true&count_private=true&locale=pt-br"
     />
-</div> 
+</div>
+<br/>
+<p align="center">
+        <img 
+            width="500px"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=XandGVaz&bg_color=1a1a21&color=3477eb&line=ffffff&point=ffffff&area=true&hide_border=false"
+        />
+</p>
 
 ### **Contato** 📩
 
