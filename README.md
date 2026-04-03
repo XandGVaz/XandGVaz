@@ -97,7 +97,7 @@
 <div align="center">
         <img 
             width="700px"
-            src="https://github-readme-activity-graph.vercel.app/graph?username=XandGVaz&bg_color=1d1f29&color=1499f7&line=3477eb&point=3477eb&area=true&hide_border=false"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=XandGVaz&days=40&bg_color=1d1f29&color=1499f7&line=3477eb&point=3477eb&area=true&hide_border=false"
         />
 </div>
 
