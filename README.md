@@ -60,7 +60,7 @@
          src="https://img.shields.io/badge/Ubuntu-3477eb?style=for-the-badge&logo=ubuntu&logoColor=white" 
      >
 </p>
-<!--
+
 ### **Estatísticas** 📈
 <div align="left">
     <img 
@@ -80,7 +80,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&layout=compact&theme=react&include_all_commits=true&count_private=true&locale=pt-br"
     />
 </div>
--->
 
 ### **Contato** 📩
 
