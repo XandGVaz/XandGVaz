@@ -2,20 +2,20 @@
 
 <div align="center" >
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=500&color=3477eb&center=true&width=900&lines=Olá+Mundo!+🌎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=500&color=3477eb&center=true&width=900&lines=Hello+World!)](https://git.io/typing-svg)
     
 </div>
 
 <br>
 <!--- ![Typing GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif --->
 
-### **`Seja bem vindo ao meu perfil, meu nome é Vitor Alexandre`** 
+### **`Welcome to my profile. My name is Vitor Alexandre`** 
 
-- 🏫 Aluno de Engenharia de Computação - USP São Carlos
-- ✅ Busco reunir aqui meus projetos pessoais e profissionais
-- ⌚️ Atualmente, estou me aprofundando em sisteamas embarcados, IoT e programação web
+- 🏫 Computer Engineering Student - USP São Carlos
+- ✅ Here, I aim to bring together my personal and professional projects
+- ⌚️ I am currently delving deeper into embedded systems, the Internet of Things (IoT), and web development
 
-### **Tecnologias** 🤖
+### **Technologies** 🤖
 <p align="center">
     <img 
         src="https://img.shields.io/badge/c-3477eb.svg?style=for-the-badge&logo=c&logoColor=white" 
@@ -62,7 +62,7 @@
 </p>
 
 <!---
-### **Estatísticas** 📈
+### **Statistics** 📈
 <div align="left">
     <img 
         align="center"
@@ -83,7 +83,7 @@
 </div>
 --->
 
-### **Contato** 📩
+### **Contact** 📩
 
 <div align="center">
 
@@ -93,7 +93,7 @@
   
 </div>
 
-### **Atividade** 🪂 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
+### **Activity** 🪂 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
         <img 
