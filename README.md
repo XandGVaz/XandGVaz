@@ -61,6 +61,7 @@
      >
 </p>
 
+<!---
 ### **Estatísticas** 📈
 <div align="left">
     <img 
@@ -80,6 +81,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandGVaz&layout=compact&theme=react&include_all_commits=true&count_private=true&locale=pt-br"
     />
 </div>
+--->
 
 ### **Contato** 📩
 
