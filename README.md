@@ -17,7 +17,7 @@
     ⌚️ I am currently delving deeper into embedded systems, the Internet of Things (IoT), and web development
 </p>
 
-<br>
+<img width="100%" src="assets/divider.svg"/>
 
 <h3 align="center">Technologies 🤖</h3>
 
@@ -90,7 +90,7 @@
 </div>
 --->
 
-<br>
+<img width="100%" src="assets/divider.svg"/>
 
 <h3 align="center">Contact 📩</h3>
 
@@ -102,7 +102,7 @@
   
 </div>
 
-<br>
+<img width="100%" src="assets/divider.svg"/>
 
 <h3 align="center">Activity 🪂</h3>
 
