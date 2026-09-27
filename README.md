@@ -2,14 +2,17 @@
 
 <div align="center" >
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=500&color=3477eb&center=true&width=900&lines=Hello+World!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Iosevka&size=30&duration=2500&pause=5000&color=F0F6FC&center=true&width=900&lines=Welcome+to+my+profile!+My+name+is+Vitor+Alexandre"/>
+        <img alt="Welcome to my profile! My name is Vitor Alexandre" src="https://readme-typing-svg.demolab.com?font=Iosevka&size=30&duration=2500&pause=5000&color=1F2328&center=true&width=900&lines=Welcome+to+my+profile!+My+name+is+Vitor+Alexandre"/>
+    </picture>
+</a>
     
 </div>
 
 <br>
 <!--- ![Typing GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif --->
-
-<h3 align="center"><code>Welcome to my profile. My name is Vitor Alexandre</code></h3>
 
 <p align="center">
     🏫 Computer Engineering Student - USP São Carlos<br>
