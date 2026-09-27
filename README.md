@@ -16,49 +16,52 @@
 - ⌚️ I am currently delving deeper into embedded systems, the Internet of Things (IoT), and web development
 
 ### **Technologies** 🤖
+
+<h4 align="center">Languages</h4>
 <p align="center">
-    <img 
-        src="https://img.shields.io/badge/c-3477eb.svg?style=for-the-badge&logo=c&logoColor=white" 
-    >
-     <img 
-         src="https://img.shields.io/badge/c++-3477eb.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
-     >
-    <img 
-         src="https://img.shields.io/badge/-Arduino-3477eb?style=for-the-badge&logo=Arduino&logoColor=white" 
-     >
-    <img 
-         src="https://img.shields.io/badge/CMake-3477eb?style=for-the-badge&logo=cmake&logoColor=white" 
-    >
-    <img 
-         src="https://img.shields.io/badge/-Raspberry_Pi-3477eb?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" 
-    >
-    <img 
-         src="https://img.shields.io/badge/html5-3477eb.svg?style=for-the-badge&logo=html5&logoColor=white" 
-     >
-    <img 
-         src="https://img.shields.io/badge/css3-3477eb.svg?style=for-the-badge&logo=css3&logoColor=white" 
-     >
-    <img 
-         src="https://img.shields.io/badge/typescript-3477eb.svg?style=for-the-badge&logo=typescript&logoColor=white" 
-     >
-    <img 
-         src="https://img.shields.io/badge/node.js-3477eb?style=for-the-badge&logo=node.js&logoColor=white" 
-     >
-    <img 
-         src="https://img.shields.io/badge/postgres-3477eb.svg?style=for-the-badge&logo=postgresql&logoColor=white" 
-     >
-    <img 
-         src="https://img.shields.io/badge/python-3477eb?style=for-the-badge&logo=python&logoColor=white" 
-     >
-    <img 
-         src="https://img.shields.io/badge/git-3477eb.svg?style=for-the-badge&logo=git&logoColor=white" 
-     >
-    <img 
-         src="https://img.shields.io/badge/Linux-3477eb?style=for-the-badge&logo=linux&logoColor=white" 
-     >
-    <img 
-         src="https://img.shields.io/badge/Ubuntu-3477eb?style=for-the-badge&logo=ubuntu&logoColor=white" 
-     >
+    <img alt="C" src="https://img.shields.io/badge/C-3477eb?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-3477eb?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3477eb?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3477eb?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3477eb?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-3477eb?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-3477eb?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyLDNDNy41OCwzIDQsNC43OSA0LDdDNCw5LjIxIDcuNTgsMTEgMTIsMTFDMTYuNDIsMTEgMjAsOS4yMSAyMCw3QzIwLDQuNzkgMTYuNDIsMyAxMiwzTTQsOVYxMkM0LDE0LjIxIDcuNTgsMTYgMTIsMTZDMTYuNDIsMTYgMjAsMTQuMjEgMjAsMTJWOUMyMCwxMS4yMSAxNi40MiwxMyAxMiwxM0M3LjU4LDEzIDQsMTEuMjEgNCw5TTQsMTRWMTdDNCwxOS4yMSA3LjU4LDIxIDEyLDIxQzE2LjQyLDIxIDIwLDE5LjIxIDIwLDE3VjE0QzIwLDE2LjIxIDE2LjQyLDE4IDEyLDE4QzcuNTgsMTggNCwxNi4yMSA0LDE0WiIvPjwvc3ZnPg%3D%3D"/>
+    <img alt="OpenMP" src="assets/openmp-badge.svg"/>
+    <img alt="MPI" src="assets/mpi-badge.svg"/>
+</p>
+
+<h4 align="center">Embedded &amp; IoT</h4>
+<p align="center">
+    <img alt="ESP32" src="https://img.shields.io/badge/ESP32-3477eb?style=for-the-badge&logo=espressif&logoColor=white"/>
+    <img alt="STM32" src="https://img.shields.io/badge/STM32-3477eb?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-3477eb?style=for-the-badge&logo=arduino&logoColor=white"/>
+    <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-3477eb?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+    <img alt="FreeRTOS" src="assets/freertos-badge.svg"/>
+    <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-3477eb?style=for-the-badge&logo=platformio&logoColor=white"/>
+    <img alt="KiCad" src="https://img.shields.io/badge/KiCad-3477eb?style=for-the-badge&logo=kicad&logoColor=white&logoSize=auto"/>
+    <img alt="CMake" src="https://img.shields.io/badge/CMake-3477eb?style=for-the-badge&logo=cmake&logoColor=white"/>
+    <img alt="LoRaWAN" src="assets/lorawan-badge.svg"/>
+    <img alt="MQTT" src="https://img.shields.io/badge/MQTT-3477eb?style=for-the-badge&logo=mqtt&logoColor=white"/>
+</p>
+
+<h4 align="center">Backend &amp; Data</h4>
+<p align="center">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3477eb?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img alt="Express" src="https://img.shields.io/badge/Express-3477eb?style=for-the-badge&logo=express&logoColor=white"/>
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-3477eb?style=for-the-badge&logo=fastapi&logoColor=white"/>
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-3477eb?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-3477eb?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-3477eb?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-3477eb?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+
+<h4 align="center">DevOps &amp; Tools</h4>
+<p align="center">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-3477eb?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-3477eb?style=for-the-badge&logo=prometheus&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-3477eb?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-3477eb?style=for-the-badge&logo=linux&logoColor=white"/>
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-3477eb?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
 <!---
@@ -89,7 +92,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-3477eb?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vitorgarciavaz@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-3477eb?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/vitor_gvaz/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-3477eb?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vitor-alexandre-garcia-vaz-6757962aa/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-3477eb?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/vitor-alexandre-garcia-vaz-6757962aa/)
   
 </div>
 
