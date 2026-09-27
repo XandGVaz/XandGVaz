@@ -9,13 +9,17 @@
 <br>
 <!--- ![Typing GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif --->
 
-### **`Welcome to my profile. My name is Vitor Alexandre`** 
+<h3 align="center"><code>Welcome to my profile. My name is Vitor Alexandre</code></h3>
 
-- 🏫 Computer Engineering Student - USP São Carlos
-- ✅ Here, I aim to bring together my personal and professional projects
-- ⌚️ I am currently delving deeper into embedded systems, the Internet of Things (IoT), and web development
+<p align="center">
+    🏫 Computer Engineering Student - USP São Carlos<br>
+    ✅ Here, I aim to bring together my personal and professional projects<br>
+    ⌚️ I am currently delving deeper into embedded systems, the Internet of Things (IoT), and web development
+</p>
 
-### **Technologies** 🤖
+<br>
+
+<h3 align="center">Technologies 🤖</h3>
 
 <h4 align="center">Languages</h4>
 <p align="center">
@@ -86,7 +90,9 @@
 </div>
 --->
 
-### **Contact** 📩
+<br>
+
+<h3 align="center">Contact 📩</h3>
 
 <div align="center">
 
@@ -96,7 +102,15 @@
   
 </div>
 
-### **Activity** 🪂 ![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
+<br>
+
+<h3 align="center">Activity 🪂</h3>
+
+<div align="center">
+
+![snake gif](https://github.com/XandGVaz/XandGVaz/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <!---
 <div align="center">
