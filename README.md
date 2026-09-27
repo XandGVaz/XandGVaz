@@ -31,14 +31,12 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-3477eb?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img alt="SQL" src="https://img.shields.io/badge/SQL-3477eb?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyLDNDNy41OCwzIDQsNC43OSA0LDdDNCw5LjIxIDcuNTgsMTEgMTIsMTFDMTYuNDIsMTEgMjAsOS4yMSAyMCw3QzIwLDQuNzkgMTYuNDIsMyAxMiwzTTQsOVYxMkM0LDE0LjIxIDcuNTgsMTYgMTIsMTZDMTYuNDIsMTYgMjAsMTQuMjEgMjAsMTJWOUMyMCwxMS4yMSAxNi40MiwxMyAxMiwxM0M3LjU4LDEzIDQsMTEuMjEgNCw5TTQsMTRWMTdDNCwxOS4yMSA3LjU4LDIxIDEyLDIxQzE2LjQyLDIxIDIwLDE5LjIxIDIwLDE3VjE0QzIwLDE2LjIxIDE2LjQyLDE4IDEyLDE4QzcuNTgsMTggNCwxNi4yMSA0LDE0WiIvPjwvc3ZnPg%3D%3D"/>
     <img alt="OpenMP" src="assets/openmp-badge.svg"/>
-    <img alt="MPI" src="assets/mpi-badge.svg"/>
 </p>
 
 <h4 align="center">Embedded &amp; IoT</h4>
 <p align="center">
     <img alt="ESP32" src="https://img.shields.io/badge/ESP32-3477eb?style=for-the-badge&logo=espressif&logoColor=white"/>
     <img alt="STM32" src="https://img.shields.io/badge/STM32-3477eb?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-3477eb?style=for-the-badge&logo=arduino&logoColor=white"/>
     <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-3477eb?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
     <img alt="FreeRTOS" src="assets/freertos-badge.svg"/>
     <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-3477eb?style=for-the-badge&logo=platformio&logoColor=white"/>
@@ -51,12 +49,11 @@
 <h4 align="center">Backend &amp; Data</h4>
 <p align="center">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3477eb?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img alt="Express" src="https://img.shields.io/badge/Express-3477eb?style=for-the-badge&logo=express&logoColor=white"/>
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-3477eb?style=for-the-badge&logo=fastapi&logoColor=white"/>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-3477eb?style=for-the-badge&logo=springboot&logoColor=white"/>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-3477eb?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="Redis" src="https://img.shields.io/badge/Redis-3477eb?style=for-the-badge&logo=redis&logoColor=white"/>
     <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-3477eb?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+    <img alt="Mosquitto" src="https://img.shields.io/badge/Mosquitto-3477eb?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
 </p>
 
 <h4 align="center">DevOps &amp; Tools</h4>
